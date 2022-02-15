@@ -1,0 +1,17 @@
+{
+  "hello": "שלום ",
+  "gotAlert": ". בביתך התקבלה התראת ",
+  "pleaseCheck": ". אנא בדוק זאת בהקדם. ",
+  "thankYou": "בתודה צוות ",
+  "digitalShield": "Digital Shield",
+  "languageCode": "he-IL",
+  "voiceCode": "he-IL-AvriNeural",
+  "kind": {
+    "fire": "אש",
+    "co": "מים",
+    "gas": "גז",
+    "sos": "מצוקה",
+    "power": "הפסקת חשמל",
+    "tamper": "חבלה"
+  }
+}

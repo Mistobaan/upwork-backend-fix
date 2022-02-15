@@ -1,0 +1,17 @@
+{
+  "hello": "Hello ",
+  "gotAlert": ". Your property reported ",
+  "pleaseCheck": " alert! please try handle it ASAP ",
+  "thankYou": " Thank you, ",
+  "digitalShield": "Digital Shield",
+  "languageCode": "en-US",
+  "voiceCode": "en-US-AriaNeural",
+  "kind": {
+    "fire": "Fire",
+    "co": "Water",
+    "gas": "Gas",
+    "sos": "SOS",
+    "power": "Power failure",
+    "tamper": "Tamper"
+  }
+}
