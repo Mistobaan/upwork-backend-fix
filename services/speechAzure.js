@@ -32,8 +32,8 @@ async function synthesizeSpeech(textToSpeech,fileName,langCode,voiceCode) {
     synthesizer.speakTextAsync(
         textToSpeech,
         result => {
-            synthesizer.close()
             if (result.reason === sdk.ResultReason.SynthesizingAudioCompleted) {
+                synthesizer.close()
                 return true
             }
             else if(result.errorDetails){
